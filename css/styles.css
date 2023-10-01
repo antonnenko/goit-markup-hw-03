@@ -103,7 +103,6 @@ body {
   gap: 40px;
 }
 .header-menu-item {
-  padding: 24px 0;
 }
 .header-menu-link {
   color: #2e2f42;
@@ -111,6 +110,7 @@ body {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  padding: 24px 0;
 }
 .header-menu-link:hover,
 .header-menu-link:focus {
